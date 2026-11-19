@@ -28,7 +28,7 @@ Google BigQuery, PostgreSQL (SQL: CTEs, window functions), Python (pandas, SQLAl
 4. Install the libraries (`pip install -r requirements.txt`) and run the notebook.
 
 ## Data
-Google Analytics sample dataset (Google Merchandise Store), a public dataset on BigQuery. The data file is not included because of its size. See `data/README.md`.
+Google Analytics sample dataset (Google Merchandise Store), a public dataset on BigQuery. The data file is not included because of its size.
 
 ## Limitations
 2016-2017 data from one store; session-level (not person-level); stage counts ignore order; only five funnel stages; segments were not controlled for each other; no significance tests; no cost or margin data.
