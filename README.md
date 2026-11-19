@@ -34,4 +34,4 @@ Google Analytics sample dataset (Google Merchandise Store), a public dataset on 
 2016-2017 data from one store; session-level (not person-level); stage counts ignore order; only five funnel stages; segments were not controlled for each other; no significance tests; no cost or margin data.
 
 ## Dashboard
-![Dashboard](images/dashboard_default.png)
+![Dashboard](01_dashboard_default.png(Excel dashboard, all filters on All))
